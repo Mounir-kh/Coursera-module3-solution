@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row>div{
+    border: solid black 3px;
+}
+
+
+.third >:nth-child(even){
+    background-color: red;
+}
+
+.third >:nth-child(odd){
+    background-color: yellow;
+}
+
+.my-custom-row{
+    background-color: bisque;
+    height: 400px;
+}
