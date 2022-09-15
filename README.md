@@ -1,1 +1,1 @@
-# Coursera-module3-solution
+# Building Navbar with Bootstrap and jQuery.
